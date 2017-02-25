@@ -9,3 +9,4 @@ Below steps are to be run
 - pip install BeautifulSoup4 // for bs4
 - pip install nltk
 - pip install wordsegment
+- pip install whois
